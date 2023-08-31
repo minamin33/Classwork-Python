@@ -1,1 +1,1 @@
-
+Introducing the Payroll Calculator: Streamline your payroll process effortlessly! This tool automates employee paycheck calculations, it even factors in overtime. Designed with employers in mind, it simplifies the process of tallying totals before taxes and benefits are accounted for.
